@@ -1,2 +1,5 @@
 # EssenceOfHuman
-The essence of human is a repeater.
+“人工智能，就是99%的人工加上1%的智能”——复读机。
+
+这里是一个毫无意义的文章生成器，可以自动生成垃圾话。
+
